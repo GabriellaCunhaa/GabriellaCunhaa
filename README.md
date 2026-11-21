@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/status-aprendendo%20e%20construindo-4B0082?style=flat-square&labelColor=0D0D0D" alt="Status: aprendendo e construindo" />
 <img src="https://img.shields.io/badge/foco-Full%20Stack%20%2B%20IA-D4AF37?style=flat-square&labelColor=0D0D0D" alt="Foco: Full Stack e IA" />
 <img src="https://img.shields.io/badge/Brasil-Goi%C3%A1s-8A2BE2?style=flat-square&labelColor=0D0D0D" alt="Brasil, Goiás" />
-<img src="https://komarev.com/ghpvc/?username=GabriellaCMaciel&label=visualiza%C3%A7%C3%B5es&color=4B0082&style=flat-square" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=GabriellaCunhaa&label=visualiza%C3%A7%C3%B5es&color=4B0082&style=flat-square" alt="Visualizações do perfil" />
 
 </div>
 
@@ -86,16 +86,16 @@ e minha direção é a <b>engenharia de IA</b>.
 <h2 align="center">✧ Projetos em destaque ✧</h2>
  
 <div align="center">
-  <a href="https://gabriellacmaciel.github.io/mundo-swarttz/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaCMaciel&repo=mundo-swarttz&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="Repositório do portfólio" />
+  <a href="https://gabriellacunhaa.github.io/mundo-swarttz/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaCunhaa&repo=mundo-swarttz&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="Repositório do portfólio" />
   </a>
-  <a href="https://github.com/GabriellaCMaciel/pixelinha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaCMaciel&repo=pixelinha&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="PixeLinha, gerador de gráficos de ponto cruz" />
+  <a href="https://github.com/GabriellaCunhaa/pixelinha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaCunhaa&repo=pixelinha&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="PixeLinha, gerador de gráficos de ponto cruz" />
   </a>
   <!--
   Para adicionar mais projetos, copie o bloco acima e troque o nome do repositório:
-  <a href="https://github.com/GabriellaCMaciel/NOME-DO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaCMaciel&repo=NOME-DO-REPO&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="Projeto em destaque" />
+  <a href="https://github.com/GabriellaCunhaa/NOME-DO-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaCunhaa&repo=NOME-DO-REPO&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="Projeto em destaque" />
   </a>
   -->
 </div>
@@ -105,8 +105,8 @@ e minha direção é a <b>engenharia de IA</b>.
 <h2 align="center">✧ Atividade no GitHub ✧</h2>
  
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabriellaCMaciel&show_icons=true&count_private=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="Estatísticas do GitHub de Gabriella" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellaCMaciel&layout=compact&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&border_color=4B0082&border_radius=12" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabriellaCunhaa&show_icons=true&count_private=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="Estatísticas do GitHub de Gabriella" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellaCunhaa&layout=compact&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&border_color=4B0082&border_radius=12" alt="Linguagens mais usadas" />
 </div>
 
 <br>
@@ -114,10 +114,10 @@ e minha direção é a <b>engenharia de IA</b>.
 <h2 align="center">✧ Vamos conversar? ✧</h2>
  
 <div align="center">
-<a href="https://gabriellacmaciel.github.io/mundo-swarttz/">
+<a href="https://gabriellacunhaa.github.io/mundo-swarttz/">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-4B0082?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfólio" />
 </a>
-<a href="https://www.linkedin.com/in/gabriellacmaciel/">
+<a href="https://www.linkedin.com/in/gabriellacunhaa/">
   <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
 </a>
 <a href="mailto:gabriellacunhamaciel@gmail.com?subject=Contato%20profissional%20via%20GitHub&body=Ol%C3%A1!%0D%0A%0D%0AEncontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades%20profissionais%20ou%20poss%C3%ADveis%20colabora%C3%A7%C3%B5es.%0D%0A%0D%0AFico%20%C3%A0%20disposi%C3%A7%C3%A3o.%0D%0A%0D%0AAtenciosamente,">
@@ -133,7 +133,7 @@ e minha direção é a <b>engenharia de IA</b>.
 
 <div align="center">
  
-<img src="https://github.com/GabriellaCMaciel/Cobrinha_no_Perfil/raw/main/dist/github-snake.svg" alt="Jogo da Cobra" />
+<img src="https://github.com/GabriellaCunhaa/Cobrinha_no_Perfil/raw/main/dist/github-snake.svg" alt="Jogo da Cobra" />
 
 <br>
 
