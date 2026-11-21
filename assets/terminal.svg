@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430" role="img" aria-label="Terminal: quem é a Gabriella">
+  <defs><style>
+    .m{font-family:'Fira Code',Consolas,'Courier New',monospace;font-size:16px}
+    .l{opacity:0;animation:show .01s forwards}
+    @keyframes show{to{opacity:1}}
+    .p{fill:#B57BFF}.c{fill:#E6E6E6}.g{fill:#D4AF37}.k{fill:#8C8C9A}.ok{fill:#3DDC84}
+    .cur{animation:blink 1s step-end infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style></defs>
+  <rect width="860" height="430" rx="16" fill="#0D0B14" stroke="#4B0082" stroke-width="2"/>
+  <path d="M0 16 A16 16 0 0 1 16 0 H844 A16 16 0 0 1 860 16 V44 H0Z" fill="#1A1228"/>
+  <circle cx="26" cy="22" r="7" fill="#FF5F57"/><circle cx="50" cy="22" r="7" fill="#FEBC2E"/><circle cx="74" cy="22" r="7" fill="#28C840"/>
+  <text x="430" y="27" text-anchor="middle" class="m k" font-size="13">gabriella@swarttz: ~</text>
+  <g class="m">
+    <text x="28" y="84"  class="l" style="animation-delay:.3s"><tspan class="p">❯</tspan><tspan class="c"> whoami</tspan></text>
+    <text x="28" y="110" class="l" style="animation-delay:.9s"><tspan class="g">Gabriella Swarttz</tspan><tspan class="k"> — dev full stack em formação, de Goiás 🇧🇷</tspan></text>
+    <text x="28" y="148" class="l" style="animation-delay:1.6s"><tspan class="p">❯</tspan><tspan class="c"> cat foco.txt</tspan></text>
+    <text x="28" y="174" class="l" style="animation-delay:2.2s"><tspan class="g">front </tspan><tspan class="c"> React · Next.js · TypeScript · Tailwind</tspan></text>
+    <text x="28" y="198" class="l" style="animation-delay:2.4s"><tspan class="g">back  </tspan><tspan class="c"> Python · Node.js · NestJS · PostgreSQL</tspan></text>
+    <text x="28" y="222" class="l" style="animation-delay:2.6s"><tspan class="g">rumo  </tspan><tspan class="c"> agentes de IA e sistemas inteligentes</tspan></text>
+    <text x="28" y="260" class="l" style="animation-delay:3.3s"><tspan class="p">❯</tspan><tspan class="c"> echo $FILOSOFIA</tspan></text>
+    <text x="28" y="286" class="l" style="animation-delay:3.9s"><tspan class="k">"código organizado, lógica bem pensada e projetos</tspan></text>
+    <text x="28" y="310" class="l" style="animation-delay:3.9s"><tspan class="k"> que resolvem problemas de verdade."</tspan></text>
+    <text x="28" y="348" class="l" style="animation-delay:4.6s"><tspan class="p">❯</tspan><tspan class="c"> status --agora</tspan></text>
+    <text x="28" y="374" class="l" style="animation-delay:5.2s"><tspan class="ok">●</tspan><tspan class="c"> estudando no EFG · construindo em público · aberta a conversas</tspan></text>
+    <text x="28" y="408" class="l" style="animation-delay:5.8s"><tspan class="p">❯</tspan><tspan class="c cur"> ▍</tspan></text>
+  </g>
+</svg>
