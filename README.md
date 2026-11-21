@@ -33,12 +33,43 @@
 
 <div align="center">
 
-| | |
-|:--|:--|
-| 🎨 **Interfaces** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs&theme=dark&perline=8" height="42" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind e Three.js" /> |
-| ⚙️ **Back-end** | <img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,postgresql&theme=dark" height="42" alt="Python, Node.js, NestJS e PostgreSQL" /> |
-| 🧰 **Dia a dia** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" height="42" alt="Git, GitHub, VS Code, Linux e Figma" /> |
-| 🤖 **Estudando** | ![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-2A1E05?style=flat-square&logo=probot&logoColor=D4AF37) ![LLMs](https://img.shields.io/badge/LLMs-2A1E05?style=flat-square&logo=openaigym&logoColor=D4AF37) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2A1E05?style=flat-square&logo=markdown&logoColor=D4AF37) |
+<p><b>🎨 Interfaces</b></p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" alt="HTML" /><br/><sub><b>HTML</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" alt="CSS" /><br/><sub><b>CSS</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" alt="React" /><br/><sub><b>React</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="44" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="44" alt="Tailwind" /><br/><sub><b>Tailwind</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="44" alt="Three.js" /><br/><sub><b>Three.js</b></sub></td>
+</tr>
+</table>
+
+<p><b>⚙️ Back-end</b></p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" alt="Python" /><br/><sub><b>Python</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="44" alt="NestJS" /><br/><sub><b>NestJS</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="44" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
+</tr>
+</table>
+
+<p><b>🧰 Dia a dia</b></p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" alt="Git" /><br/><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44" alt="Figma" /><br/><sub><b>Figma</b></sub></td>
+</tr>
+</table>
+
+<p><b>🤖 Estudando</b></p>
+
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-2A1E05?style=for-the-badge&logo=probot&logoColor=D4AF37) ![LLMs](https://img.shields.io/badge/LLMs-2A1E05?style=for-the-badge&logo=openaigym&logoColor=D4AF37) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2A1E05?style=for-the-badge&logo=markdown&logoColor=D4AF37)
 
 </div>
 
