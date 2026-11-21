@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="Jornada: HTML e CSS, JavaScript, React e Next.js, Python e Node, Agentes de IA (próxima parada)">
+  <defs>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#4B0082"/><stop offset=".7" stop-color="#8A2BE2"/><stop offset="1" stop-color="#D4AF37"/></linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
+      .dash{stroke-dasharray:8 8;animation:mv 1.2s linear infinite}
+      @keyframes mv{to{stroke-dashoffset:-16}}
+      .pulse{transform-origin:900px 95px;animation:pl 2s ease-out infinite}
+      @keyframes pl{0%{transform:scale(1);opacity:.8}100%{transform:scale(2.2);opacity:0}}
+    </style>
+  </defs>
+  <rect width="1000" height="210" rx="18" fill="#0D0B14" stroke="#2D0A4E" stroke-width="2"/>
+  <path d="M100 95 C200 40 250 150 300 95 S450 40 500 95 S650 150 700 95 S850 40 900 95" fill="none" stroke="url(#ln)" stroke-width="4" class="dash"/>
+  <g class="t" text-anchor="middle">
+    <g><circle cx="100" cy="95" r="26" fill="#1A1228" stroke="#8A2BE2" stroke-width="3"/><text x="100" y="104" font-size="24">🧱</text>
+      <text x="100" y="152" fill="#E6E6E6" font-size="15" font-weight="700">HTML &amp; CSS</text><text x="100" y="172" fill="#8C8C9A" font-size="12">a base</text></g>
+    <g><circle cx="300" cy="95" r="26" fill="#1A1228" stroke="#8A2BE2" stroke-width="3"/><text x="300" y="104" font-size="24">⚡</text>
+      <text x="300" y="152" fill="#E6E6E6" font-size="15" font-weight="700">JavaScript</text><text x="300" y="172" fill="#8C8C9A" font-size="12">a lógica</text></g>
+    <g><circle cx="500" cy="95" r="26" fill="#1A1228" stroke="#8A2BE2" stroke-width="3"/><text x="500" y="104" font-size="24">⚛️</text>
+      <text x="500" y="152" fill="#E6E6E6" font-size="15" font-weight="700">React &amp; Next.js</text><text x="500" y="172" fill="#8C8C9A" font-size="12">as interfaces</text></g>
+    <g><circle cx="700" cy="95" r="26" fill="#1A1228" stroke="#B57BFF" stroke-width="3"/><text x="700" y="104" font-size="24">🐍</text>
+      <text x="700" y="152" fill="#E6E6E6" font-size="15" font-weight="700">Python &amp; Node</text><text x="700" y="172" fill="#8C8C9A" font-size="12">as APIs</text></g>
+    <g><circle class="pulse" cx="900" cy="95" r="30" fill="none" stroke="#D4AF37" stroke-width="2"/>
+      <circle cx="900" cy="95" r="30" fill="#2A1E05" stroke="#D4AF37" stroke-width="3"/><text x="900" y="105" font-size="26">🤖</text>
+      <text x="900" y="152" fill="#D4AF37" font-size="15" font-weight="700">Agentes de IA</text><text x="900" y="172" fill="#D4AF37" fill-opacity=".75" font-size="12">próxima parada ✦</text></g>
+  </g>
+</svg>
